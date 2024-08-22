@@ -1,4 +1,4 @@
-# Module 11 Challenge
+# Mars News and Weather Web Scrapping
 
 ## Background
 A full web-scraping and data analysis project using data contained on the [Mars News](https://static.bc-edx.com/data/web/mars_news/index.html) website.
